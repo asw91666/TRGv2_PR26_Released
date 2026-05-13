@@ -1,6 +1,6 @@
 # [PR'26] TRGv2 (Translation, Rotation, and face Geometry network)  
   
-- This is the official PyTorch implementation of "Bidirectional regression for monocular 6dof head pose estimation and reference system alignment." (PR 2026)  
+- This is the official PyTorch implementation of "[Bidirectional regression for monocular 6dof head pose estimation and reference system alignment](https://www.sciencedirect.com/science/article/pii/S0031320326005510)," PR 2026  
 
 - This work is extension version of TRG (ECCV 2024)
   
