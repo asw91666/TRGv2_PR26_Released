@@ -21,6 +21,11 @@ Precise six-degree-of-freedom (6DoF) head pose estimation is crucial for safety-
 ## Installation  
 Please check [Installation.md](./docs/install.md) for more information.  
   
+## How to align reference system  
+We provide guidelines to run reference system alignment. 
+
+Please check [rsa.md](./docs/reference_system_alignment.md) for more information.
+
 ## Demo  
 We provide guidelines to run end-to-end inference on test video.  
   
@@ -47,6 +52,11 @@ This work was partly supported by Institute of Information
 & Communications Technology Planning 
 & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. RS-2023-00219700, Development of FACS-compatible facial expression style transfer technology for digital human, 80%), 
 National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. NRF-2022R1F1A1066170, Physically valid 3D human motion reconstruction from multi-view videos, 10%), Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (No. RS-2025-25435513, 10%), and the research grant of Kwangwoon University in 2024.
+
+## License
+This project is licensed under the GNU General Public License v3.0.
+See the [LICENSE](LICENSE) file for details.
+
 
 ## Citation  
 If you find our work useful for your research, please consider citing our paper:  
