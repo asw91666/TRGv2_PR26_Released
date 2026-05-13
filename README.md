@@ -2,7 +2,7 @@
   
 - This is the official PyTorch implementation of "[Bidirectional regression for monocular 6dof head pose estimation and reference system alignment](https://www.sciencedirect.com/science/article/pii/S0031320326005510)," PR 2026  
 
-- This work is extension version of TRG (ECCV 2024)
+- This work is extension version of [TRG (ECCV 2024)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04824.pdf)
   
 - TRGv2 is a lightweight version of TRG that achieves comparable performance on ARKitFace and BIWI while maintaining a more efficient architecture.
 
